@@ -1,1 +1,3 @@
-void main(int arc, char **argv) {}
+void main(int arc, char **argv) {
+    printf("hello world");
+}
